@@ -1,0 +1,19 @@
+The databases and codes are provided to reproduce the results reported in our KNOSYS Paper. 
+
+% =========================================================================
+Xi Peng, Rui Yan, Bo Zhao, Huajin Tang, and Zhang Yi,
+Fast Low-rank Representation based Spatial Pyramid Matching for Image Classification,
+Knowledge based Systems, Volume 90, December 2015, Pages 14-22.
+   
+% If the codes or data sets are helpful to you, please appropriately cite our works. Thank you very much!
+% Written by Xi Peng @ I2R A*STAR,
+% more information can be found from my website: http://machineilab.org/users/pengxi/ or www.pengxi.me
+% Augest, 2014.
+% =========================================================================
+
+The codes and the data set “extended Yale b” are provided to reproduce the results reported in our submission. 
+
+To test the effectiveness of our method, please run ‘LrrSPM_main.m’ under the folder ‘_LrrSPM’
+
+if you use the other data set or change the experimental setting, please change the related parameters which have been commented in the codes.
+
